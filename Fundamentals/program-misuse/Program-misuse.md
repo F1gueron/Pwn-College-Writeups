@@ -6,11 +6,13 @@ In this challenge, participants will navigate to the `/challenge` directory and 
 
 1. Navigate to the `/challenge` directory:
     ```bash
-    cd /challenge ```
+    cd /challenge
+    ```
 
 2. Execute the `babysuid` program:
     ```bash
-    ./babysuid```
+    ./babysuid
+    ```
 
 3. Exploit the SUID permissions granted by `babysuid` to execute commands as the root user and locate the flag.
 
