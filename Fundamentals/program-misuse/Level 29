@@ -1,0 +1,1 @@
+stdbuf -i0 cat /flag
