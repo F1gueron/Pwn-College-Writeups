@@ -1,0 +1,2 @@
+echo "{{given_password}}" > {{given_location_to_save}}
+./embryoio_level5 < {{given_location_to_save}}
