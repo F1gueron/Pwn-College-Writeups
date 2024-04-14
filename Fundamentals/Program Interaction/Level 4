@@ -1,2 +1,2 @@
-export {{var_name_given}}={{var_value_given}}
+export {{given_var_name}}={{given_var_value}}
 /embryoio_level4
