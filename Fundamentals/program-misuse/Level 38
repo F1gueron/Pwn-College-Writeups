@@ -1,0 +1,2 @@
+cp --no-preserve=all /flag .
+cat /flag
