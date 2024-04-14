@@ -1,0 +1,1 @@
+bzip2 -c /flag | bzip2 -d
