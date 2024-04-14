@@ -1,1 +1,1 @@
-bash -c 'exec -c a "" ./embryoio_level7'
+env -i ./embryoio_level7
