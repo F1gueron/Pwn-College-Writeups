@@ -1,0 +1,2 @@
+tar -cf flag.tar /flag
+cat flag.tar
