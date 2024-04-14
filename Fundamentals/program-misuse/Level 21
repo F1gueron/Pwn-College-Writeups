@@ -1,0 +1,4 @@
+TF=$(mktemp -u)
+LFILE=/flag
+ar r "$TF" "$LFILE"
+cat "$TF"
