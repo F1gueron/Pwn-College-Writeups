@@ -1,2 +1,2 @@
-cp --no-preserve=all /flag .
+chmod 666 /flag
 cat /flag
