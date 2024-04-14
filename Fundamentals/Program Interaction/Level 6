@@ -1,0 +1,2 @@
+/embryoio_level6 > {{given_location_to_save}}
+cat {{given_location_to_save}}
