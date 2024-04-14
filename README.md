@@ -6,11 +6,11 @@ This repository contains writeups and solutions for challenges from [pwn.college
 
 ## Categories
 
-- [Fundamentals](./categories/fundamentals.md)
-- [Introduction to Cybersecurity](./categories/intro_to_cybersecurity.md)
-- [Program Security](./categories/program_security.md)
-- [System Security](./categories/system_security.md)
-- [Software Exploitation](./categories/software_exploitation.md)
+- [Fundamentals](./Fundamentals)
+- [Introduction to Cybersecurity](./intro_to_cybersecurity.md)
+- [Program Security](./program_security.md)
+- [System Security](./system_security.md)
+- [Software Exploitation](./software_exploitation.md)
 
 ## Contributing
 
