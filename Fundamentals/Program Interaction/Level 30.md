@@ -9,7 +9,7 @@ void pwncollege(){
 
 
 int main(){
-    const char file[100] = "/challenge/embryoio_level29";
+    const char file[100] = "/challenge/embryoio_level30";
 
     pid_t id;
 
