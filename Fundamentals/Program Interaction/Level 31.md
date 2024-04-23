@@ -1,6 +1,6 @@
 For the next few levels, we need to create a .c code and use it to pass the checks.
 The code for this one is:
-```c
+```C
 #include <stdlib.h>
 
 void pwncollege(){
